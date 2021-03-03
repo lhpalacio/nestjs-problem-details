@@ -1,0 +1,13 @@
+{
+  "name": "nestjs-problem-details",
+  "version": "0.0.1",
+  "description": "Problem Details for Nest.JS Applications",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Luiz Henrique Gomes Palacio (lhpalacio@outlook.com)",
+  "license": "MIT",
+  "dependencies": {
+    "@nestjs/common": "^7.6.13"
+  }
+}
